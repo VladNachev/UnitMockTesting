@@ -11,4 +11,4 @@ This repository contains unit tests for a dummy (imaginary) Student Management S
 * Mockito
 
 ## TO DO
-Add more and varies tests to demonstrate the usage of JUnit and Mockito in different scenarios.
+Add more and various tests to demonstrate the usage of JUnit and Mockito in different scenarios.
